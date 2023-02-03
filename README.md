@@ -24,8 +24,8 @@ gradle test
 
 ## Test
 
-http://localhost:8080/graphiql
-http://localhost:8080/h2-console
+open http://localhost:8080/graphiql
+open http://localhost:8080/h2-console
 
 ## Maintain
 
